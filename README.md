@@ -19,12 +19,12 @@ pip install opencv-python
 ## Script Description:
 The object_counting.py script performs the following steps:
 
-Video Capture: Opens the tracked video file for processing.
-Line Definition: Defines multiple lines for counting objects.
-Video Writer: Initializes the video writer to save the output video.
-Frame Processing: Processes each frame of the video to count objects crossing the lines.
-Output Generation: Writes the processed frames to the output video file.
-Cleanup: Releases video capture and writer resources.
+**Video Capture**: Opens the tracked video file for processing.
+**Line Definition**: Defines multiple lines for counting objects.
+**Video Writer**: Initializes the video writer to save the output video.
+**Frame Processing**: Processes each frame of the video to count objects crossing the lines.
+**Output Generation**: Writes the processed frames to the output video file.
+**Cleanup**: Releases video capture and writer resources.
 
 
 
