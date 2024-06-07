@@ -12,6 +12,9 @@ This repository contains a Python script that utilizes the YOLOv8 object detecti
 Ensure you have Python installed, then install the required packages:
 
 pip install ultralytics opencv-python
+pip install numpy
+pip install opencv-python 
+
 
 ## Script Description:
 The object_counting.py script performs the following steps:
